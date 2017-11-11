@@ -1,0 +1,30 @@
+{
+  "name": "lanyrd-data",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "async": "^2.6.0",
+    "babel-eslint": "^8.0.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-progress-bar": "^1.0.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "lodash": "^4.17.4",
+    "nedb": "^1.8.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "scripts": {
+    "test": "eslint modules",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
