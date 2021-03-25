@@ -8,7 +8,7 @@
     "cheerio": "^1.0.0-rc.2",
     "cli-progress-bar": "^1.0.1",
     "eslint-config-airbnb": "^16.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "nedb": "^1.8.0",
     "request": "^2.83.0"
   },
